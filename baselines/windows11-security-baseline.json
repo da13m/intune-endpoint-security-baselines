@@ -1,0 +1,8 @@
+{
+  "displayName": "Windows 11 - Security Baseline",
+  "description": "BitLocker, ASR, Defender AV baseline (starter)",
+  "roleScopeTagIds": [
+    "0"
+  ],
+  "settings": []
+}
